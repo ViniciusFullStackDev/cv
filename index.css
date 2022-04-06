@@ -42,8 +42,9 @@ li {
     margin-left: 30px;
 }
 
-#gmail {
-    color: purple;
+i {
+    text-decoration: none;
+    color: black;
 }
 
 p {
